@@ -1,0 +1,10 @@
+pandas
+streamlit
+qrcode
+math
+pillow
+firebase_admin
+pydeck
+time
+streamlit_js_eval
+os
